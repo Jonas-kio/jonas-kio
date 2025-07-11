@@ -1,6 +1,6 @@
 # 👨‍💻 Jonas Vidal Zenzano 👋
 
-Estudiante de Ingeniería Informática • Desarrollador Full-Stack
+Estudiante de Ingeniería Informática 
 
 ---
 
