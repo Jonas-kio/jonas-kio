@@ -14,6 +14,7 @@ Estudiante de Ingeniería Informática
 - 🎯 **Objetivo:** Crear tecnología que genere impacto positivo
 
 ---
+> 🚀 "El mejor momento para empezar fue ayer. El segundo mejor momento es ahora."
 
 ## 🛠️ Stack Tecnológico
 
