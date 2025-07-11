@@ -43,20 +43,3 @@ Estudiante de Ingeniería Informática • Desarrollador Full-Stack
 
 ---
 
-## 💼 Experiencia
-
-```python
-class Jonas:
-    def __init__(self):
-        self.name = "Jonas Vidal Zenzano"
-        self.role = "Estudiante de Ingeniería Informática"
-        self.languages = ["Python", "Java", "PHP", "JavaScript"]
-        self.frameworks = ["React", "Laravel"]
-        self.tools = ["Figma", "Trello", "Git", "VS Code"]
-        self.current_focus = "Full-Stack Development"
-
-    def say_hi(self):
-        print("¡Construyamos algo increíble juntos!")
-
-jonas = Jonas()
-jonas.say_hi()
