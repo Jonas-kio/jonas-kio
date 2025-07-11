@@ -6,7 +6,7 @@ Estudiante de Ingeniería Informática
 
 ## 🚀 Sobre mí
 
-¡Hola! Soy un estudiante de Ingeniería Informática apasionado por transformar ideas en soluciones digitales. Me especializo en desarrollo full-stack y disfruto creando experiencias web que realmente ayuden a las personas.
+¡Hola! Soy un estudiante de Ingeniería Informática apasionado por transformar ideas en soluciones digitales.Disfruto creando experiencias web que realmente ayuden a las personas.
 
 - 🎓 **Estudiando:** Ingeniería Informática
 - 💻 **Enfoque:** Desarrollo Full-Stack & Diseño UI/UX
